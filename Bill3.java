@@ -8,7 +8,7 @@ public class Bill3 {
 	    double bill=Double.parseDouble(args[3]); //receiving the bill amount
 		double splitbill=Math.ceil(bill/3);//equally splitting the bill
 		System.out.println("Dear "+name3+", "+name2+
-		                    ", "+name1+": pay "+(int)splitbill+
-						     " Shekels each");   
+		                    ", and "+name1+": pay "+splitbill+
+						     " Shekels each.");   
 	}
 }
