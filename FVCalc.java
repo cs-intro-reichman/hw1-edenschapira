@@ -12,3 +12,7 @@ public class FVCalc {
 
 	}
 }
+
+// Code looks good, just dont forget to use camel case
+// newrate -> newRate
+// futurevalue -> futureValue
